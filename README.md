@@ -1,8 +1,8 @@
 # [NIM] - Pengantar Machine Learning
 
-**Nama:** Muhammad Arifin
-**NIM:** 231230051
-**Kelas:** 05 A
+**Nama: Muhammad Arifin**
+**NIM: 231230051**
+**Kelas: 05 A**
 
 Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
